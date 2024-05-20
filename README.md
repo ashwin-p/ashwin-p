@@ -8,4 +8,4 @@ const profile = {
 	programmingLanguages: ["C/C++", "Java", "Python", "Haskell"],
 	otherSkills: ["Linux", "SQL"],
 	interests: ["Backend Development", "Functional Programming", "ML & AI"]
-}`
+}
